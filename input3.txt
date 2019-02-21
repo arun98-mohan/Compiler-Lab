@@ -1,0 +1,6 @@
+do{
+printf("hi");
+do{
+printf("hello");
+}while(i>10);
+}while(j>10);

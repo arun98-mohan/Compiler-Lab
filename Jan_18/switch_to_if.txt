@@ -1,0 +1,10 @@
+switch(i){
+case 1: printf("arun");
+printf("arun2");
+break;
+case 2: printf("tarun");
+default:printf("idk");
+break;
+default: a=a-5;
+}
+
